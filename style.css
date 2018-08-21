@@ -1,0 +1,31 @@
+#title {
+	font-family: 'Indie Flower', cursive;
+	font-size: 50px;
+	text-align: center;
+}
+#image {
+	height: 800px;
+	width: cover;	
+}
+
+#menu_bar {
+	font-size: 20px;
+	font-family: 'Indie Flower', cursive;
+}
+}
+
+
+#social_media {
+	text-align: center;
+}
+
+#text {
+	text-align: center;
+	font-size: 100px;
+	font-family: 'Indie Flower', cursive;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
